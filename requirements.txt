@@ -1,0 +1,7 @@
+beautifulsoup4==4.6.3
+brotli==1.0.9
+bs4==0.0.0
+dropbox==11.10.0
+regex==2019.12.20 
+requests==2.23.0
+
